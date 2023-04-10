@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,gpt3.org,
+IP-CIDR,chatgpt.proxy.com/32
