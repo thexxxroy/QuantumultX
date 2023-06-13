@@ -1,3 +1,3 @@
-# Filter-Rule
-自用分流规则
+# QuantumultX
+自用收集整理
 
