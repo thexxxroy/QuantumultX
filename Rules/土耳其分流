@@ -1,0 +1,34 @@
+#2023.10.21
+
+#Oldubil
+HOST,oldubil.colendilabs.com
+HOST-SUFFIX,oldubil.com
+HOST-SUFFIX,colendilabs.com
+HOST-KEYWORD,oldubil
+
+#Ozan
+HOST, op-prod-tr.ozan.com
+HOST-KEYWORD, ozan
+
+#FUPS
+HOST, mobile.fups.com
+HOST, chat.fups.com
+HOST-KEYWORD, fups
+
+#Tosla
+HOST, api.tosla.com
+HOST, direktclientservice-tosla.akbank.com
+HOST-KEYWORD, tosla
+
+#Sipay
+HOST-KEYWORD,sipay
+
+HOST, spyw-rg1-mobileapi.walletgate.io
+HOST, spyw-idsapi.walletgate.io
+HOST, cms.walletgate.io
+HOST, staticmedia.walletgate.io
+HOST-SUFFIX, walletgate.io
+
+
+HOST, akodecdn.akbank.com
+HOST, app.tr.adjust.com
