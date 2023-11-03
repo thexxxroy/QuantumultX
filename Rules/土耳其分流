@@ -27,14 +27,11 @@ HOST-KEYWORD,sipay
 HOST-SUFFIX, iyzipay.com
 HOST-SUFFIX, iyzico.com
 
-
-
 HOST, spyw-rg1-mobileapi.walletgate.io
 HOST, spyw-idsapi.walletgate.io
 HOST, cms.walletgate.io
 HOST, staticmedia.walletgate.io
 HOST-SUFFIX, walletgate.io
-
 
 HOST, akodecdn.akbank.com
 HOST, app.tr.adjust.com
